@@ -12,4 +12,4 @@
 8. Update app.py
 
 
-url - 644157043235.dkr.ecr.us-east-1.amazonaws.com/text-s
+URI - 644157043235.dkr.ecr.us-east-1.amazonaws.com/text-s
